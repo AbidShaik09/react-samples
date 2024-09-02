@@ -1,0 +1,7 @@
+header{
+    background-color: chocolate;
+    height: 14vh;
+    display:flex;
+    justify-content: space-around;
+}
+ul li{ display: inline;}
